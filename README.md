@@ -1,1 +1,2 @@
-VISIT : dhiyanu290100.github.io/resume
+VISIT : dhiyanu.vercel.app
+
